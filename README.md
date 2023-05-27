@@ -70,8 +70,8 @@
 
 Сервер backup-node1.sh:
 
-#!/bin/bash
-date
+#!/bin/bash....
+date....
 syst_dir=/backup/
 srv_name=node2 #из тестовой конфигурации
 srv_ip=192.168.1.11
