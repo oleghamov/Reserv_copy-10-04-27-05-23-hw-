@@ -67,13 +67,11 @@
 
 ![node2-mkdir_&_touch.png](https://github.com/oleghamov/Reserv_copy-10-04-27-05-23-hw-/blob/master/node2-mkdir_%26_touch.png)`
 
-![node2_config_rsyncd.conf.png](https://github.com/oleghamov/Reserv_copy-10-04-27-05-23-hw-/blob/master/node2_config_rsyncd.conf.png)`
-
-![node2_config_rsyncd.conf_home.png](https://github.com/oleghamov/Reserv_copy-10-04-27-05-23-hw-/blob/master/node2_config_rsyncd.conf_home.png)`
+![node1_data_backup.png](https://github.com/oleghamov/Reserv_copy-10-04-27-05-23-hw-/blob/master/node1_data_backup.png)`
 
 ![node2_dir-etc.png](https://github.com/oleghamov/Reserv_copy-10-04-27-05-23-hw-/blob/master/node2_dir-etc.png)`
 
-![node1_data_backup.png](https://github.com/oleghamov/Reserv_copy-10-04-27-05-23-hw-/blob/master/node1_data_backup.png)`
+![node2_config_rsyncd.conf_home.png](https://github.com/oleghamov/Reserv_copy-10-04-27-05-23-hw-/blob/master/node2_config_rsyncd.conf_home.png)`
 
 ![node1_home_backup.png](https://github.com/oleghamov/Reserv_copy-10-04-27-05-23-hw-/blob/master/node1_home_backup.png)`
 
